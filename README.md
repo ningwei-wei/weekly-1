@@ -3,7 +3,6 @@
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/openbiox/weekly/graphs/commit-activity)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShixiangWang%2Fweekly&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Gitter](https://badges.gitter.im/ShixiangWang/community.svg)](https://gitter.im/ShixiangWang/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 本项目由「Openbiox 生信周刊」运维小队维护。
 
@@ -49,6 +48,8 @@ $ grep -nri bash issues | cat --number
 
 ### 七月
 
+- 第 84 期：[认识自己的缺点](issues/issue-84.md)
+- 第 83 期：[2022 Science年度十大科学突破](issues/issue-83.md)
 - 第 82 期：[一种新的数字表示方法 Posits](issues/issue-82.md)
 
 ### 六月
