@@ -45,10 +45,30 @@ $ grep -nri bash issues | cat --number
 ```
 
 ## 2023
+### 十一月
+- 第 99 期：[发论文还是生孩子，女性在学术界会遭遇什么？](issues/issue-99.md)
+- 第 98 期：[自然选择主要作用于基因上吗？](issues/issue-98.md)
+
+
+### 十月
+- 第 97 期：[失败的读博经历-如何从跌倒中爬起来？](issues/issue-97.md)
+- 第 96 期：[如何取得杰出成就](issues/issue-96.md)
+- 第 95 期：[中国人群泛基因组联盟](issues/issue-95.md)
+
+### 九月
+
+- 第 94 期：[非线性的世界，线性的你](issues/issue-94.md)
+- 第 93 期：[来自妈妈的Y染色体](issues/issue-93.md)
+- 第 92 期：[医疗反腐的困境和选项](issues/issue-92.md)
+- 第 91 期：[探索的动机](issues/issue-91.md)
+
 ### 八月
+
+- 第 90 期：[性别视角下的中国科研人员画像](issues/issue-90.md)
 - 第 89 期：[视频学习胜过读书吗？](issues/issue-89.md)
 - 第 88 期：[Vim之父因病离世，一生写下Vim传奇](issues/issue-88.md)
 - 第 87 期：[耿美玉的971是真药的可能性](issues/issue-87.md)
+
 ### 七月
 
 - 第 86 期：[如何做亮眼的研究生？](issues/issue-86.md)
