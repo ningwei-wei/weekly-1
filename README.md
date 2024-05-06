@@ -16,6 +16,8 @@
 - [`@Tomcxf`](https://github.com/Tomcxf) - 陈啸枫 
 - [`@wangdepin`](https://github.com/wangdepin) - 王德品
 - [`@kongjianyang`](https://github.com/kongjianyang) - 空间阳
+- [`@donghongyu2020`](https://github.com/donghongyu2020) - 董弘禹
+- [`@DrRobinLuo`](https://github.com/DrRobinLuo) - 罗鹏
 
 轮值负责排班表见 <https://github.com/openbiox/weekly/issues/1352>
 
@@ -46,8 +48,19 @@ $ grep -nri bash issues | cat --number
 
 ## 2024
 
+### 五月
+
+
+### 四月
+
+- 第 121 期：[不唯论文，在中国可行吗？](issues/issue-121.md)
+- 第 120 期：[技术写作的首要诀窍](issues/issue-120.md)
+- 第 119 期：[科学家首次改造了真核生物超过50%的基因组](issues/issue-119.md)
+- 第 118 期：[滴血验癌](issues/issue-118.md)
+
 ### 三月
 
+- 第 117 期：[半个世纪的争论: 分子演化论中的中性论/选择论之争](issues/issue-117.md)
 - 第 116 期：[我国科研影响力是否已达到世界顶尖水平？](issues/issue-116.md)
 - 第 115 期：[罗莎琳德·富兰克林对DNA双螺旋结构的真实贡献](issues/issue-115.md)
 - 第 114 期：[从复杂系统中，抓住奇妙的普适性](issues/issue-114.md)
