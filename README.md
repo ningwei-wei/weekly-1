@@ -48,7 +48,32 @@ $ grep -nri [搜索词] issues | cat --number
 $ grep -nri bash issues | cat --number
 ```
 
+## 2025
+
+### 一月
+
+- 第 154 期：[海归青椒“硬着陆”](issues/issue-154.md)
+
+
 ## 2024
+
+<details>
+ 
+<summary>2024 列表</summary>
+
+### 十二月
+- 第 153 期：[做诚实的学问，做正直的人](issues/issue-153.md)
+- 第 152 期：[2024 Science年度十大科学突破](issues/issue-152.md)
+- 第 151 期：[一半以上实验结果无法重复，学术界正在遭遇一场危机吗](issues/issue-151.md)
+- 第 150 期：[自律者，有三戒](issues/issue-150.md)
+
+  
+### 十一月
+- 第 149 期：[人类细胞图谱计划](issues/issue-149.md)
+- 第 148 期：[AI 革命不应该比喻为互联网，而是晶体管](issues/issue-148.md)
+- 第 147 期：[为什么中外科研课题如此不同？](issues/issue-147.md)
+- 第 146 期：[7年两次考核未过，高校副教授亲历“非升即走”](issues/issue-146.md)
+
 
 ### 十月
 
@@ -119,6 +144,7 @@ $ grep -nri bash issues | cat --number
 - 第 109 期：[说说你今年用的顺手的工具吧？](issues/issue-109.md)
 - 第 108 期：[肿瘤微生物组是污染，还是新突破](issues/issue-108.md)
 - 第 107 期：[生命起源与复杂性](issues/issue-107.md)
+</details>
 
 ## 2023
 
