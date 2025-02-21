@@ -50,8 +50,14 @@ $ grep -nri bash issues | cat --number
 
 ## 2025
 
+### 二月
+
+- 第 157 期：[中国学术界，从此告别"杰青"](issues/issue-157.md)
+
 ### 一月
 
+- 第 156 期：[说说2024你的收获吧~](issues/issue-156.md)
+- 第 155 期：[对话拉斯克奖得主陈志坚：专注一个课题，你能跟世界上任何实验室竞争](https://github.com/openbiox/weekly/blob/main/issues/issue-155.md)
 - 第 154 期：[海归青椒“硬着陆”](issues/issue-154.md)
 
 
