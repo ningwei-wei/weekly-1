@@ -2,7 +2,7 @@
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/openbiox/weekly/graphs/commit-activity)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShixiangWang%2Fweekly&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fopenbiox.github.io%2Fweekly%2F&label=Visitor&icon=github&color=%23198754)
 
 本项目由「Openbiox 生信周刊」运维小队维护。
 
@@ -49,9 +49,23 @@ $ grep -nri bash issues | cat --number
 ```
 
 ## 2025
+### 五月
+- 第 166 期：[为什么中外科研课题如此不同](issues/issue-166.md)
+
+### 四月
+- 第 165 期：[明星期刊“落选”引发科学界震动，在中国做学术期刊有多难？](issues/issue-165.md)
+- 第 164 期：[德日学者称中国学术界更偏好“内循环”](issues/issue-164.md)
+- 第 163 期：[美国公共数据库对中国科研人员禁用](issues/issue-163.md)
+
+### 三月
+
+- 第 162 期：['双人成行'对创新的作用](issues/issue-162.md)
+- 第 161 期：[一半以上实验结果无法重复，学术界正在遭遇一场危机吗？](issues/issue-161.md)
+- 第 160 期：[科学评价亟需优化](issues/issue-160.md)
 
 ### 二月
-
+- 第 159 期：[生信爱好者周刊（第 159 期）：巴菲特的选人标准](issues/issue-159.md)
+- 第 158 期：[AI离彻底改变人类社会的能力只有10年](https://github.com/openbiox/weekly/blob/main/issues/issue-158.md)
 - 第 157 期：[中国学术界，从此告别"杰青"](issues/issue-157.md)
 
 ### 一月
