@@ -7,6 +7,8 @@
 [![Ask
 DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/openbiox/weekly)
 
+**本项目已经完成历史想法与期待，停止更新，感谢所有的读者**
+
 本项目由「Openbiox 生信周刊」运维小队维护。
 
 成员：
@@ -54,6 +56,7 @@ $ grep -nri bash issues | cat --number
 ## 2025
 
 ### 十二月
+- 第 180 期：[有了AI，还有必要学习生物信息吗？](https://github.com/openbiox/weekly/blob/main/issues/issue-180.md)
 - 第 179 期：[在大数据时代，研究设计应优先考虑统计显著性](https://github.com/openbiox/weekly/blob/main/issues/issue-179.md)
 - 第 178 期：[为何肿瘤空间分布至关重要](https://github.com/openbiox/weekly/blob/main/issues/issue-178.md)
   
@@ -440,8 +443,4 @@ $ grep -nri bash issues | cat --number
 - [曾健明](https://github.com/jmzeng1314)
 - iCanHelp
 - 李浩
-
-## 赞赏
-
-![](https://cdn.nlark.com/yuque/0/2022/png/471931/1648291334186-bd3390be-c83c-4396-aabd-ca39f588c15d.png?x-oss-process=image%2Fresize%2Cw_1290%2Climit_0)
 
